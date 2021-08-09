@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @geobenipy from 🇪🇺 | 🇩🇪
+- 👀 I’m interested in Geophysics/ Geoscience
+- 🌱 I’m currently learning Pyhon
+- 📫 How to reach me ...
