@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Beni — geobenipy</h1>
+<h1 align="center">Hi, I'm Beni</h1>
 <h3 align="center">Geophysics Student · Python · Geodata</h3>
 
 ---
